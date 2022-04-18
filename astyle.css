@@ -1,0 +1,29 @@
+#welcome {
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+#about {
+  display: flex;
+  height: 100vh;
+  flex-direction: row;
+  align-items: center;
+  height: 100vh;
+  margin-left: 30%;
+}
+
+#about p {
+  font-family: "PT Sans", sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  width: 20%;
+  margin-left: 50px;
+}
+
+#about h2 {
+  font-family: "PT Sans", sans-serif;
+  margin-left: 50px;
+}
